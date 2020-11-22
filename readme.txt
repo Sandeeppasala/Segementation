@@ -1,1 +1,1 @@
-Segementation Assignment.
+Segmentation Assignment.
